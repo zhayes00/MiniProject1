@@ -14,7 +14,7 @@ Workflow
 1. [**Clone**][ref-clone] the forked repository to your docker container
 
      ```
-     git clone https://github.com/YourGHUsername/MiniProject1
+     git clone git@github.com:<GHUser>/MiniProject1.git
      ```
 1. Copy [Miniproject1.ipynb](https://github.com/fdac22/MiniProject1/blob/master/MiniProject1.ipynb) to YourUTKID.ipynb
 
