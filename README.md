@@ -31,6 +31,22 @@ Workflow
    original repository [fdac22/Miniproject1][assignment]  to
    turn in the assignment.
 
+- Group 1: bkammerd jclar168 tcultice delzinga lpearcy1 cbeckfor hfarahat 
+- Group 2: aenzor bmclaug6 bgullet1 lgangula imulet mduraney rwill166 
+- Group 3: rpatel77 jstaman rswan elidberb tnitzsch acook46 vhanset 
+- Group 4: awalsh15 jim5 gkirk rsexton8 wparham1 dscott57 vhazlewo 
+- Group 5: cbrow216 tneuefei ntayefeh vbhupati beken abahour2 aphan2 
+- Group 6: jrodeghi tainley spunjani tkhan7 troger28 cbrook53 robdgrif 
+- Group 7: nmize1 rschenck csmit402 pbowlin1 smishr11 zhayes2 chagens 
+- Group 8: lsharpe8 sblank11 batkhamj jsun36 eander68 relgedaw kmaclin1 
+- Group 9: clee95 dhuang14 pattle zwilli13 bschwar7 hhaynie ahickm18 
+- Group 10: cearhear cjohn260 oameli friya shoque jsadik spate118 
+- Group 11: npatel79 rseamons sjohn248 rlinder jallbrit jmandzak ababjac 
+- Group 12: yahmad1 broachel zlim2 jamin jblanch8 tharshba zhamm 
+- Group 13: klee50 mdeleon1 mdenise dwill148 ljakstas aesser zmalkmus 
+- Group 14: ahillhou whannon1 bbutle11 dseals3 lwrinkle aartates cwang93 
+- Group 15: amcdan23 bklein3 abrock14 awelden2 echavez2 dwhite75 kyumhan 
+
 
 Social Workflow with deadlines
 ==============================
@@ -38,11 +54,11 @@ Social Workflow with deadlines
 1. Do the first five steps listed above before the class on Sep 8: if you have any
    issues, we need to clarify them before Sep 8. (Ensure you've got your file pushed to your fork.)
 1. Come up with an idea of what analysis you are going to use and
-   what data sources you will use. Discuss it with your assigned peer on Sep 8.
-   You present the idea to your peer next to you in the list of groups and you
-   produce a comment for the peer before you in the group list below. 
+   what data sources you will use. Discuss it with your assigned peer on Sep 8. 
+   You present the idea to your peer next to you (e.g., bkammerd to jclar168) in the list of groups
+   produce a comment (e.g., jclar168 for bkammerd) for the peer before you in the group. 
    The first person  comments on the presentation of
-   the last person and the last presents to the first.  To access your peer's forked repository, manually enter the url:
+   the last person (e.g., bkammerd for hfarahat)  and the last presents to the first (hfarahat to bkammerd).  To access your peer's forked repository, manually enter the url:
    https://github.com/YourPeersGHUsername/Miniproject1
    The mapping of the GH ids to UTK IDs is in https://github.com/fdac22/students/blob/master/NetID2GHID.md 
 
@@ -54,7 +70,7 @@ When you raise an issue, you should assign it to the GHUSER who should comment o
 1. Prepare a few slides (or a jupyter notebook) explaining the approach and findings and
    present to a small group as specified below.
 1. We will have the entire class on Sep 13 for you to practice
-   presentations in several groups as shown in https://github.com/fdac22/students/blob/master/TeamingAnalysis.ipynb
+   presentations in several [groups](https://github.com/fdac22/students/blob/master/TeamingAnalysis.ipynb)
 
     
 At the end of the presentations within the group a vote will be held (by that group) for one presentation 
