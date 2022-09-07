@@ -35,8 +35,8 @@ Workflow
 Social Workflow with deadlines
 ==============================
 
-1. Do the first four steps listed above before the class on Sep 8: if you have any
-   issues, we need to clarify them before Sep 8.
+1. Do the first five steps listed above before the class on Sep 8: if you have any
+   issues, we need to clarify them before Sep 8. (Ensure you've got your file pushed to your fork.)
 1. Come up with an idea of what analysis you are going to use and
    what data sources you will use. Discuss it with your assigned peer on Sep 8.
    You present the idea to your peer next to you in the list of groups and you
