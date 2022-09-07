@@ -48,7 +48,7 @@ Social Workflow with deadlines
 
 When you raise an issue, you should assign it to the GHUSER who should comment on it.
 1. Start doing the analysis and discuss your progress with your peer
-   so that you are done before class on Sep 10. In case you encounter any problems
+   so that you are done before class on Sep 13. In case you encounter any problems
    retrieving, storing, or analyzing data please discuss them with
    your peer and, if needed, escalate.
 1. Prepare a few slides (or a jupyter notebook) explaining the approach and findings and
@@ -59,7 +59,7 @@ When you raise an issue, you should assign it to the GHUSER who should comment o
     
 At the end of the presentations within the group a vote will be held (by that group) for one presentation 
 to be selected for the presentation to the entire class. The first person listed in each group will record that in the issue 
-https://github.com/fdac22/Miniproject1/issues/1
+https://github.com/fdac22/Miniproject1/issues/4
 
 
 What operational data traces are expected
